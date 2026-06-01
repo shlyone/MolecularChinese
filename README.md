@@ -53,4 +53,4 @@ MolecularChinese/
 ## 📧 联系方式
 - 作者：wenjie hu
 - 邮箱：shlyone15021058172@gmail.com
-- 项目主页：[GitHub仓库链接]
+- 项目主页：https://github.com/shlyone/MolecularChinese
